@@ -1,4 +1,3 @@
-git is a version control system
-git is free software`
-111
-222
+11.13. 2024
+using ppf to reproduce the julia FID model
+
